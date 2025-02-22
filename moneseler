@@ -8,3 +8,6 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
 #EXTINF:-1,Mobese2
 https://cdn-ipkamera.yayin.com.tr/seydisehirbel/Gevrekli/playlist.m3u8
+
+#EXTINF:-1,İstanbul Eminönü
+https://hls.ibb.gov.tr/tkm1/hls/502.stream/chunklist.m3u8
